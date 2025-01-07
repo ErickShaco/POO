@@ -1,0 +1,13 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Estudos de POO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
